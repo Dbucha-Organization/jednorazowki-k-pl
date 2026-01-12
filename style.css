@@ -1269,7 +1269,9 @@ footer svg {
         align-items: center;
         padding: 40px 40px;
     }
-
+    .slider-nav{
+        opacity: 1 !important;
+    }
     .warn {
         font-size: 10px !important;
     }
@@ -1411,9 +1413,9 @@ footer svg {
         font-size: 16px;
     }
 
-    .slider-nav {
-        width: 40px;
-        height: 40px;
+    .slider-nav{
+        padding: 15px !important;
+       
     }
 
     .slider-nav.prev {
